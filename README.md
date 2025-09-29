@@ -1,6 +1,6 @@
 # AirBnB clone - The console 🏠🏠
 
-https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T112951Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=40c9a8f8743cec5a79b116f39f7959689fb9c5aaf4d66df94f6f8d7ebe18a577
+![AirBnB Logo](https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20250929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250929T112951Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=40c9a8f8743cec5a79b116f39f7959689fb9c5aaf4d66df94f6f8d7ebe18a577)
 
 # Description of the project
 
